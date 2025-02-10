@@ -37,7 +37,7 @@ cd cheatsheet-generator
 
 Run the script and specify the topic for the cheatsheet:
 
-python main.py "Python Basics"
+python main.py
 
 Example Output
 
